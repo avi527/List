@@ -1,0 +1,32 @@
+Method	Description
+---------------------------------------------------------
+1 Python List append()---	Add Single Element to The List
+
+2 Python List extend()	Add Elements of a List to Another List
+
+3 Python List insert()	Inserts Element to The List
+4 Python List remove()	Removes Element from the List
+5 Python List index()	returns smallest index of element in list
+6 Python List count()	returns occurrences of element in a list
+7 Python List pop()	Removes Element at Given Index
+8 Python List reverse()	Reverses a List
+9 Python List sort()	sorts elements of a list
+10 Python List copy()	Returns Shallow Copy of a List
+11 Python List clear()	Removes all Items from the List
+12 Python any()	Checks if any Element of an Iterable is True
+13 Python all()	returns true when all elements in iterable is true
+14 Python ascii()	Returns String Containing Printable Representation
+15 Python bool()	Converts a Value to Boolean
+16 Python enumerate()	Returns an Enumerate Object
+17 Python filter()	constructs iterator from elements which are true
+18 Python iter()	returns iterator for an object
+19 Python list() Function	creates list in Python
+20 Python len()	Returns Length of an Object
+21 Python max()	returns largest element
+22 Python min()	returns smallest element
+23 Python map()	Applies Function and Returns a List
+24 Python reversed()	returns reversed iterator of a sequence
+25 Python slice()	creates a slice object specified by range()
+26 Python sorted()	returns sorted list from a given iterable
+27 Python sum()	Add items of an Iterable
+28 Python zip()	Returns an Iterator of Tuples
